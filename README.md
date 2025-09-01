@@ -1,18 +1,17 @@
 # ella-peters
-<h1 align="center">Hi 👋, I'm Ella</h1>
-<h3 align="center">A Student at James Madison University</h3>
+<h1 align="center">Hi 👋, I'm Ella 🎧🧸☁️🐆🫧</h1>
+- I’m currently **a Junior at James Madison University**
 
-- 🎧 I’m currently **a Junior**
+- Im from **Houston Texas**
 
-- 🧸 Im from **Houston Texas**
+- I’m majoring **in Media Arts and Design with a concentration in Journalism and a minor in Digital Studies**
 
-- ☁️ I’m majoring **in Media Arts and Design with a concentration in Journalism and a minor in Digital Studies**
+- How to reach me **pipapeters@gmail.com**
 
-- 🫧 How to reach me **pipapeters@gmail.com**
+- Here is my resume: [file:///Users/ellapeters/Downloads/Resume.pdf](file:///Users/ellapeters/Downloads/Resume.pdf)
 
-- 🐆 Fun fact **Im Chinese and Brazilian**
+- Things about me: **Im Chinese and Brazilian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ ella-peters-b78630304 vanity url name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ella-peters-b78630304 vanity url name" height="30" width="40" /></a>
 </p>
